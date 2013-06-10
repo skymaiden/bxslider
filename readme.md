@@ -1,11 +1,11 @@
-#This version of bxSlider is now deprecated!
-##Use bxSlider version 4.0 found [here](http://bxslider.com) and on [Github](https://github.com/wandoledzep/bxslider-4)
+#bxSlider 3
 
-jQuery bxSlider v3.0
-http://bxslider.com
+This version of bxSlider is now deprecated. It's maintained here for older projects where upgrading to [version 4](https://github.com/wandoledzep/bxslider-4) is not immediately possible.
 
-Copyright 2011, Steven Wanderski
-http://bxcreative.com
+- [Examples] (http://v3.bxslider.com/examples)
+- [Options] (http://v3.bxslider.com/options)
 
-Free to use and abuse under the MIT license.
-http://www.opensource.org/licenses/mit-license.php
+
+<br />
+jQuery bxSlider v3.0 &bull; Copyright 2011, Steven Wanderski &bull; http://bxcreative.com  
+Licensed under the [MIT license] (http://www.opensource.org/licenses/mit-license.php)
